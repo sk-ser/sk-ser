@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
 
 ### Hi there 👋
-## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=This+is+sk+ser;+come+here+again;Thanks+for+visiting+Here)](https://git.io/typing-svg) <br/>
+## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=This+is+sk+ser;+come+here+again;Thanks+for+visiting+Here)](https://youtube.com/@walkeropz) <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mask-sir&label=Visitors%20count&color=10d9c3&style=plastic" alt="mask-sir" /> </p>
 ### 😻learning coding
 
